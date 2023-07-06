@@ -3,3 +3,6 @@ MIn deletions to make frequency unique: https://leetcode.com/problems/minimum-de
  Possible to have all alternat element with differnece equal to one:  https://practice.geeksforgeeks.org/contest/job-a-thon-2/problems
 
 https://leetcode.com/problems/number-of-different-subsequences-gcds/solutions/1229974/java-faster-than-95-with-explanation/
+
+
+max xi+xj + (yi-yj)  https://leetcode.com/problems/max-value-of-equation/solutions/1027590/java-solution-using-monotonic-queue-decreasing-with-explanation/
