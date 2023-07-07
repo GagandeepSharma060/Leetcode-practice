@@ -8,4 +8,6 @@ https://leetcode.com/problems/number-of-different-subsequences-gcds/solutions/12
 max xi+xj + (yi-yj)  https://leetcode.com/problems/max-value-of-equation/solutions/1027590/java-solution-using-monotonic-queue-decreasing-with-explanation/
 https://leetcode.com/problems/max-value-of-equation/solutions/1265108/java-priority-queue-o-nlogn-explanation/
 
+https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template!/
+
 https://leetcode.com/problems/integer-to-roman/solutions/2723782/java-explained-in-detail-simple-fast-solution-dictionary/
