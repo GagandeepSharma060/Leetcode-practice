@@ -11,3 +11,5 @@ https://leetcode.com/problems/max-value-of-equation/solutions/1265108/java-prior
 https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template!/
 
 https://leetcode.com/problems/integer-to-roman/solutions/2723782/java-explained-in-detail-simple-fast-solution-dictionary/
+
+https://leetcode.com/problems/number-of-unique-good-subsequences/solutions/1749583/java-simple-solution-o-n-with-detailed-explanation/
