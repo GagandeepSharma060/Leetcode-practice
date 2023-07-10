@@ -13,3 +13,7 @@ https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1
 https://leetcode.com/problems/integer-to-roman/solutions/2723782/java-explained-in-detail-simple-fast-solution-dictionary/
 
 https://leetcode.com/problems/number-of-unique-good-subsequences/solutions/1749583/java-simple-solution-o-n-with-detailed-explanation/
+
+
+Fennwik tree 
+https://leetcode.com/problems/count-of-smaller-numbers-after-self/solutions/76611/short-java-binary-index-tree-beat-97-33-with-detailed-explanation/
