@@ -17,3 +17,6 @@ https://leetcode.com/problems/number-of-unique-good-subsequences/solutions/17495
 
 Fennwik tree 
 https://leetcode.com/problems/count-of-smaller-numbers-after-self/solutions/76611/short-java-binary-index-tree-beat-97-33-with-detailed-explanation/
+
+https://leetcode.com/problems/count-of-smaller-numbers-after-self/solutions/76587/easiest-java-solution/
+https://leetcode.com/problems/count-of-smaller-numbers-after-self/submissions/991218080/
