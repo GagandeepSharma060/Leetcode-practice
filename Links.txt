@@ -20,3 +20,6 @@ https://leetcode.com/problems/count-of-smaller-numbers-after-self/solutions/7661
 
 https://leetcode.com/problems/count-of-smaller-numbers-after-self/solutions/76587/easiest-java-solution/
 https://leetcode.com/problems/count-of-smaller-numbers-after-self/submissions/991218080/
+
+
+https://www.codingninjas.com/studio/problems/rectangles-in-nxn-board_1201638?leftPanelTab=2
