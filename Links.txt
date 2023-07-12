@@ -23,3 +23,6 @@ https://leetcode.com/problems/count-of-smaller-numbers-after-self/submissions/99
 
 
 https://www.codingninjas.com/studio/problems/rectangles-in-nxn-board_1201638?leftPanelTab=2
+
+
+https://leetcode.com/problems/find-eventual-safe-states/submissions/992665750/
