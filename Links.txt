@@ -6,6 +6,7 @@ https://leetcode.com/problems/number-of-different-subsequences-gcds/solutions/12
 
 https://stackoverflow.com/questions/9362896/deleting-any-node-from-a-single-linked-list-when-only-pointer-to-that-node-is-gi
 
+https://leetcode.com/problems/largest-rectangle-in-histogram/solutions/1603860/6-similar-questions-prev-smaller-next-smaller-monotonic-stack-c/
 
 max xi+xj + (yi-yj)  https://leetcode.com/problems/max-value-of-equation/solutions/1027590/java-solution-using-monotonic-queue-decreasing-with-explanation/
 https://leetcode.com/problems/max-value-of-equation/solutions/1265108/java-priority-queue-o-nlogn-explanation/
