@@ -6,6 +6,8 @@ https://leetcode.com/problems/maximum-gap/submissions/
 
 https://leetcode.com/problems/count-stepping-numbers-in-range/solutions/3836309/c-digit-dp-clean-code-detailed-explanation-easy-to-understand/
 
+https://leetcode.com/problems/my-calendar-i/solutions/2371717/c-java-fast-hashmap-solutions-with-commnent/
+
 https://leetcode.com/problems/number-of-different-subsequences-gcds/solutions/1229974/java-faster-than-95-with-explanation/
 
 https://stackoverflow.com/questions/9362896/deleting-any-node-from-a-single-linked-list-when-only-pointer-to-that-node-is-gi
