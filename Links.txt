@@ -6,6 +6,8 @@ https://leetcode.com/problems/maximum-gap/submissions/
 
 https://leetcode.com/problems/reaching-points/solutions/1048702/detailed-and-clear-explanation-thought-process-java-100-beat/
 
+https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/solutions/2900674/java-prioritized-bfs-explained/
+
 https://leetcode.com/problems/minimum-number-of-refueling-stops/solutions/2451314/c-full-explained-code-with-comments-clean-code/
 
 https://leetcode.com/problems/count-stepping-numbers-in-range/solutions/3836309/c-digit-dp-clean-code-detailed-explanation-easy-to-understand/
