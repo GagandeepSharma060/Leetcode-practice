@@ -4,6 +4,7 @@ MIn deletions to make frequency unique: https://leetcode.com/problems/minimum-de
 https://leetcode.com/problems/strange-printer/solutions/3836705/easy-recursive-solution-dp-java-beginner-s-friendly/
 https://leetcode.com/problems/maximum-gap/submissions/
 
+https://leetcode.com/problems/reaching-points/solutions/1048702/detailed-and-clear-explanation-thought-process-java-100-beat/
 
 https://leetcode.com/problems/minimum-number-of-refueling-stops/solutions/2451314/c-full-explained-code-with-comments-clean-code/
 
