@@ -5,6 +5,7 @@ https://leetcode.com/problems/strange-printer/solutions/3836705/easy-recursive-s
 https://leetcode.com/problems/maximum-gap/submissions/
 
 https://leetcode.com/problems/reaching-points/solutions/1048702/detailed-and-clear-explanation-thought-process-java-100-beat/
+https://leetcode.com/problems/next-greater-element-iv/solutions/2756668/java-c-python-one-pass-stack-solution-o-n/
 
 https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/solutions/2900674/java-prioritized-bfs-explained/
 
