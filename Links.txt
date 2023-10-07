@@ -1,5 +1,8 @@
 MIn deletions to make frequency unique: https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
 
+https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+https://leetcode.com/problems/insert-delete-getrandom-o1/
+https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
  Possible to have all alternat element with differnece equal to one:  https://practice.geeksforgeeks.org/contest/job-a-thon-2/problems
 https://leetcode.com/problems/strange-printer/solutions/3836705/easy-recursive-solution-dp-java-beginner-s-friendly/
 https://leetcode.com/problems/maximum-gap/submissions/
